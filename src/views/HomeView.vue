@@ -15,7 +15,7 @@
       </p>
     </div>
     <router-link to="/gallery" class="page-link">
-      <span class="text">Rasmlar</span></router-link
+      <span class="text">Yutuqlar</span></router-link
     >
   </div>
 </template>
